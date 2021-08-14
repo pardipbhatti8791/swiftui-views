@@ -16,6 +16,7 @@
 		06A2B25F26C84C9700920D8B /* LazyHStackView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06A2B25E26C84C9700920D8B /* LazyHStackView.swift */; };
 		06A2B26126C850AC00920D8B /* ZStackView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06A2B26026C850AC00920D8B /* ZStackView.swift */; };
 		06A2B26326C8556E00920D8B /* SpacerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06A2B26226C8556E00920D8B /* SpacerView.swift */; };
+		06A2B26526C8568E00920D8B /* GeometryReaderSection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06A2B26426C8568E00920D8B /* GeometryReaderSection.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		06A2B25E26C84C9700920D8B /* LazyHStackView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LazyHStackView.swift; sourceTree = "<group>"; };
 		06A2B26026C850AC00920D8B /* ZStackView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZStackView.swift; sourceTree = "<group>"; };
 		06A2B26226C8556E00920D8B /* SpacerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpacerView.swift; sourceTree = "<group>"; };
+		06A2B26426C8568E00920D8B /* GeometryReaderSection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeometryReaderSection.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +74,7 @@
 				06A2B25E26C84C9700920D8B /* LazyHStackView.swift */,
 				06A2B26026C850AC00920D8B /* ZStackView.swift */,
 				06A2B26226C8556E00920D8B /* SpacerView.swift */,
+				06A2B26426C8568E00920D8B /* GeometryReaderSection.swift */,
 			);
 			path = masterinviews;
 			sourceTree = "<group>";
@@ -155,6 +158,7 @@
 			files = (
 				06A2B26326C8556E00920D8B /* SpacerView.swift in Sources */,
 				06A2B25D26C8473300920D8B /* HStackView.swift in Sources */,
+				06A2B26526C8568E00920D8B /* GeometryReaderSection.swift in Sources */,
 				06A2B24E26C8412100920D8B /* VStackView.swift in Sources */,
 				06A2B26126C850AC00920D8B /* ZStackView.swift in Sources */,
 				06A2B24C26C8412100920D8B /* masterinviewsApp.swift in Sources */,
