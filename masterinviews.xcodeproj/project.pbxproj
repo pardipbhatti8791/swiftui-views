@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		069620D426CA51D300878B78 /* LazyVGridView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 069620D326CA51D300878B78 /* LazyVGridView.swift */; };
 		069620D626CA592B00878B78 /* ScrollViewReaderLib.swift in Sources */ = {isa = PBXBuildFile; fileRef = 069620D526CA592B00878B78 /* ScrollViewReaderLib.swift */; };
+		069620D826CA5D5900878B78 /* ButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 069620D726CA5D5900878B78 /* ButtonView.swift */; };
 		06A2B24C26C8412100920D8B /* masterinviewsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06A2B24B26C8412100920D8B /* masterinviewsApp.swift */; };
 		06A2B24E26C8412100920D8B /* VStackView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06A2B24D26C8412100920D8B /* VStackView.swift */; };
 		06A2B25026C8412300920D8B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 06A2B24F26C8412300920D8B /* Assets.xcassets */; };
@@ -25,6 +26,7 @@
 /* Begin PBXFileReference section */
 		069620D326CA51D300878B78 /* LazyVGridView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LazyVGridView.swift; sourceTree = "<group>"; };
 		069620D526CA592B00878B78 /* ScrollViewReaderLib.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewReaderLib.swift; sourceTree = "<group>"; };
+		069620D726CA5D5900878B78 /* ButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonView.swift; sourceTree = "<group>"; };
 		06A2B24826C8412100920D8B /* masterinviews.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = masterinviews.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		06A2B24B26C8412100920D8B /* masterinviewsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = masterinviewsApp.swift; sourceTree = "<group>"; };
 		06A2B24D26C8412100920D8B /* VStackView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VStackView.swift; sourceTree = "<group>"; };
@@ -84,6 +86,7 @@
 				06A2B26626C858FA00920D8B /* LazyHGridView.swift */,
 				069620D326CA51D300878B78 /* LazyVGridView.swift */,
 				069620D526CA592B00878B78 /* ScrollViewReaderLib.swift */,
+				069620D726CA5D5900878B78 /* ButtonView.swift */,
 			);
 			path = masterinviews;
 			sourceTree = "<group>";
@@ -167,6 +170,7 @@
 			files = (
 				06A2B26326C8556E00920D8B /* SpacerView.swift in Sources */,
 				06A2B25D26C8473300920D8B /* HStackView.swift in Sources */,
+				069620D826CA5D5900878B78 /* ButtonView.swift in Sources */,
 				06A2B26526C8568E00920D8B /* GeometryReaderSection.swift in Sources */,
 				06A2B26726C858FA00920D8B /* LazyHGridView.swift in Sources */,
 				06A2B24E26C8412100920D8B /* VStackView.swift in Sources */,
